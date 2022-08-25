@@ -2,7 +2,7 @@
 - I have completed my PhD Degree in July 2022 from the Department of Aerospace Engineering, IIT Kharagpur. 
 > NONLINEAR BENDING AND BUCKLING ANALYSIS OF LAMINATED AND SANDWICH CURVED PANELS IN HYGROTHERMAL ENVIRONMENT
 - Website my [GitHub Website](https://suri2501.github.io/).
-- Please find my [CV](https://github.com/suri2501/CV/blob/main/main.pdf)
+- Please find my [CV](https://github.com/suri2501/CV/blob/main/CV.pdf)
 - [Research tips for IIT KGP Aerospace PhD Students](https://github.com/suri2501/Aerospace-IIT-KGP-PhD-Student)
 ### Research details
 My research research lies in finite element and isogeometric analysis, linear and nonlinear bending, buckling, free vibration, transient, steady state harmonic analysis of advanced composites (laminated, sandwich, FGM, CNT reinforced composite) plates and panels during both dry and hygrothermal enviornements. 
