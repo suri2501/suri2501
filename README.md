@@ -11,7 +11,7 @@ I have also done my Dual Degree (B.Tech + M.Tech) from the same place during 201
 
 ### Contact details and other information
 - Email IDs: surendraverma2501@gmail.com,                 surendraverma2501@iitkgp.ac.in
-- Mobile : +91 8436929997, +91 9475618023
+- Mobile : +91 8436929997
 - [GitHub website](https://suri2501.github.io/)
 - [Linkedin Profile](https://www.linkedin.com/in/surendraverma2501/)
 - [Google scholar profile](https://scholar.google.com/citations?user=wCUqwnkAAAAJ)
